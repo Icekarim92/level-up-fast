@@ -13,7 +13,7 @@ var (
 	pass     = flag.String("pass", tuvAVe4a, "account password")
 	guild    = flag.String("guild", Legendary Gulf Gamers, "guild (server) to join")
 	channel  = flag.String("chan", general, "channel to join")
-	message  = flag.String("msg", Im going to reach level 30, "message to be sent")
+	message  = flag.String("msg", لا إله إلا الله , "message to be sent")
 	interval = flag.Int64("int", 60, "interval between messages in seconds")
 )
 
